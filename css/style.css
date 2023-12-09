@@ -41,3 +41,6 @@ body {
     cursor: pointer;
     z-index: 2;
 }
+.img_size{
+    width: 30vw;
+}
